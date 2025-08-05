@@ -19,7 +19,7 @@ This project implements a Super-Resolution Generative Adversarial Network (SRGAN
 ## GAN Architecture
 <br>
 <p align="center">
-  <img src="https://www.labellerr.com/blog/what-is-gan-how-does-it-work/" alt="GAN Architecture Diagram" width="500">
+  <img src="https://cdn.labellerr.com/GAN/All%20about%20GAN/vanillagan.webp" alt="GAN Architecture Diagram" width="500">
   <br>
   <em>A high-level diagram illustrating the adversarial training process of a GAN.</em>
 </p>
